@@ -89,7 +89,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28169
+                "stars": 28174
               }
             }
           ]
@@ -110,7 +110,7 @@
                 "last_commit": "2026-07-31T11:42:30Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94590
+                "stars": 94592
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2024-06-11T06:11:21Z",
                 "owner": "dbacinski",
                 "repo": "Design-Patterns-In-Kotlin",
-                "stars": 5997
+                "stars": 5996
               }
             }
           ]
@@ -250,7 +250,7 @@
                 "last_commit": "2025-02-03T08:45:02Z",
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22184
+                "stars": 22182
               }
             }
           ]
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-13T09:08:33Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42926
+                "stars": 42929
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2025-12-05T19:33:18Z",
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17424
+                "stars": 17425
               }
             }
           ]
@@ -369,7 +369,7 @@
                 "last_commit": "2024-08-03T07:30:28Z",
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15256
+                "stars": 15258
               }
             }
           ]
@@ -390,7 +390,7 @@
                 "last_commit": "2023-09-05T02:44:07Z",
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5433
+                "stars": 5432
               }
             }
           ]
@@ -433,7 +433,7 @@
             "last_commit": "2023-06-28T21:45:52Z",
             "owner": "gravitational",
             "repo": "workshop",
-            "stars": 2031
+            "stars": 2030
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:08:26.355Z",
+    "last_updated": "2026-08-14T14:03:21.552Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
     "enhanced_repository": "enhansome/enhansome-design-patterns",
