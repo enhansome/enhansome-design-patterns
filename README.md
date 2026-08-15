@@ -37,7 +37,7 @@
 
 * C#
   * [design-patterns](https://github.com/abishekaditya/DesignPatterns) ⭐ 2,819 | 🐛 11 | 🌐 C# | 📅 2024-07-17
-  * [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary) ⭐ 2,131 | 🐛 0 | 🌐 C# | 📅 2025-07-04
+  * [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary) ⭐ 2,132 | 🐛 0 | 🌐 C# | 📅 2025-07-04
   * [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) ⭐ 1,389 | 🐛 5 | 🌐 C# | 📅 2022-08-09 - ultra simplified explanation to design patterns.
 
 * C++
@@ -47,10 +47,10 @@
   * [design-patterns](https://arturoherrero.com/closure-design-patterns/)
 
 * Go
-  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,174 | 🐛 66 | 🌐 Go | 📅 2024-05-14
+  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,179 | 🐛 66 | 🌐 Go | 📅 2024-05-14
 
 * Java
-  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,592 | 🐛 156 | 🌐 Java | 📅 2026-07-31
+  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,565 | 🐛 156 | 🌐 Java | 📅 2026-07-31
   * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,568 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
   * [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
   * [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
@@ -77,7 +77,7 @@
 
 * PHP
   * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,444 | 🐛 16 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
-  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,182 | 🐛 1 | 🌐 PHP | 📅 2025-02-03
+  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,183 | 🐛 1 | 🌐 PHP | 📅 2025-02-03
 
 * Python
   * [design-patterns](https://github.com/faif/python-patterns) ⭐ 42,929 | 🐛 15 | 🌐 Python | 📅 2026-08-13
@@ -87,7 +87,7 @@
   * [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 
 * React
-  * [react-bits](https://github.com/vasanthk/react-bits) ⭐ 17,425 | 🐛 11 | 📅 2025-12-05
+  * [react-bits](https://github.com/vasanthk/react-bits) ⭐ 17,426 | 🐛 11 | 📅 2025-12-05
   * [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
   * [reactpatterns.com](https://reactpatterns.com)
 
@@ -123,7 +123,7 @@
 * [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 * [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
 * [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 363,732 | 🐛 602 | 🌐 Python | 📅 2026-03-20 - Design large-scale systems.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 363,900 | 🐛 603 | 🌐 Python | 📅 2026-03-20 - Design large-scale systems.
 * [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
 * [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
 
@@ -168,7 +168,7 @@
 
 ## Machine Learning
 
-* [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 533 | 🐛 0 | 🌐 Python | 📅 2026-01-06 - Distributed machine learning system patterns.
+* [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 534 | 🐛 0 | 🌐 Python | 📅 2026-01-06 - Distributed machine learning system patterns.
 
 ## Databases and Storage
 
@@ -214,7 +214,7 @@
 
 * [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 * [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
-* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,247 | 🐛 2 | 📅 2025-03-20 - A collection of tips to help take your CSS skills pro.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,248 | 🐛 2 | 📅 2025-03-20 - A collection of tips to help take your CSS skills pro.
 * [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
 * \[front-End Architecture]
   * [mv\*](https://proandroiddev.com/mvc-mvp-mvvm-clean-viper-redux-mvi-prnsaaspfruicc-building-abstractions-for-the-sake-of-building-18459ab89386) - MVC/MVP/MVVM/CLEAN/VIPER/REDUX/MVI/PRNSAASPFRUICC.
@@ -236,14 +236,14 @@
 * [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
 * [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 * [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
-* [Game Programming Patterns](https://github.com/munificent/game-programming-patterns) ⭐ 4,524 | 🐛 105 | 🌐 HTML | 📅 2024-07-21
+* [Game Programming Patterns](https://github.com/munificent/game-programming-patterns) ⭐ 4,526 | 🐛 105 | 🌐 HTML | 📅 2024-07-21
 * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 * [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 * [Designing Microservices](https://www.manning.com/books/designing-microservices)
 
 ## Other Awesome Lists
 
-* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,619 | 🐛 100 | 📅 2026-06-30 list.
+* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,979 | 🐛 100 | 📅 2026-06-30 list.
 
 ## Contributing
 
@@ -257,4 +257,4 @@ To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

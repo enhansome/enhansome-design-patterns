@@ -54,7 +54,7 @@
                 "last_commit": "2025-07-04T16:14:33Z",
                 "owner": "nemanjarogic",
                 "repo": "DesignPatternsLibrary",
-                "stars": 2131
+                "stars": 2132
               }
             },
             {
@@ -89,7 +89,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28174
+                "stars": 28179
               }
             }
           ]
@@ -110,7 +110,7 @@
                 "last_commit": "2026-07-31T11:42:30Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94592
+                "stars": 94565
               }
             },
             {
@@ -250,7 +250,7 @@
                 "last_commit": "2025-02-03T08:45:02Z",
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22182
+                "stars": 22183
               }
             }
           ]
@@ -306,7 +306,7 @@
                 "last_commit": "2025-12-05T19:33:18Z",
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17425
+                "stars": 17426
               }
             }
           ]
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:03:21.552Z",
+    "last_updated": "2026-08-15T13:18:02.422Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
     "enhanced_repository": "enhansome/enhansome-design-patterns",
