@@ -89,7 +89,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28179
+                "stars": 28182
               }
             }
           ]
@@ -110,7 +110,7 @@
                 "last_commit": "2026-07-31T11:42:30Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94565
+                "stars": 94564
               }
             },
             {
@@ -124,7 +124,7 @@
                 "last_commit": "2025-04-09T06:54:03Z",
                 "owner": "HugoMatilla",
                 "repo": "Effective-JAVA-Summary",
-                "stars": 1568
+                "stars": 1569
               }
             }
           ]
@@ -236,7 +236,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48444
+                "stars": 48448
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2025-12-05T19:33:18Z",
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17426
+                "stars": 17427
               }
             }
           ]
@@ -369,7 +369,7 @@
                 "last_commit": "2024-08-03T07:30:28Z",
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15258
+                "stars": 15257
               }
             }
           ]
@@ -390,7 +390,7 @@
                 "last_commit": "2023-09-05T02:44:07Z",
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5432
+                "stars": 5431
               }
             }
           ]
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:18:02.422Z",
+    "last_updated": "2026-08-16T13:19:29.804Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
     "enhanced_repository": "enhansome/enhansome-design-patterns",
