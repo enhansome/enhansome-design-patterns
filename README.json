@@ -19,7 +19,7 @@
                 "last_commit": "2022-07-21T07:02:12Z",
                 "owner": "mgechev",
                 "repo": "angularjs-in-patterns",
-                "stars": 1946
+                "stars": 1945
               }
             }
           ]
@@ -89,7 +89,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28182
+                "stars": 28183
               }
             }
           ]
@@ -107,10 +107,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-07-31T11:42:30Z",
+                "last_commit": "2026-08-16T19:16:51Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94564
+                "stars": 94570
               }
             },
             {
@@ -145,7 +145,7 @@
                 "last_commit": "2024-01-08T05:07:39Z",
                 "owner": "sohamkamani",
                 "repo": "javascript-design-patterns-for-humans",
-                "stars": 4482
+                "stars": 4481
               }
             },
             {
@@ -236,7 +236,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48448
+                "stars": 48453
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-13T09:08:33Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42929
+                "stars": 42928
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2025-12-05T19:33:18Z",
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17427
+                "stars": 17426
               }
             }
           ]
@@ -369,7 +369,7 @@
                 "last_commit": "2024-08-03T07:30:28Z",
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15257
+                "stars": 15258
               }
             }
           ]
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:19:29.804Z",
+    "last_updated": "2026-08-17T13:26:52.538Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
     "enhanced_repository": "enhansome/enhansome-design-patterns",
