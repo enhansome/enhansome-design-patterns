@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-17T04:31:02Z",
                 "owner": "abishekaditya",
                 "repo": "DesignPatterns",
-                "stars": 2818
+                "stars": 2817
               }
             },
             {
@@ -94,7 +94,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28189
+                "stars": 28187
               }
             }
           ]
@@ -116,7 +116,7 @@
                 "last_commit": "2026-08-17T22:42:48Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94599
+                "stars": 94602
               }
             },
             {
@@ -205,7 +205,7 @@
                 "last_commit": "2024-06-11T06:11:21Z",
                 "owner": "dbacinski",
                 "repo": "Design-Patterns-In-Kotlin",
-                "stars": 5995
+                "stars": 5996
               }
             }
           ]
@@ -249,7 +249,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48463
+                "stars": 48464
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2025-02-03T08:45:02Z",
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22187
+                "stars": 22188
               }
             }
           ]
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-20T09:10:58Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42935
+                "stars": 42936
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2025-12-05T19:33:18Z",
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17426
+                "stars": 17425
               }
             }
           ]
@@ -411,7 +411,7 @@
                 "last_commit": "2023-09-05T02:44:07Z",
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5432
+                "stars": 5431
               }
             }
           ]
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:32:43.086Z",
+    "last_updated": "2026-08-22T13:19:38.197Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_id": 136062240,
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
