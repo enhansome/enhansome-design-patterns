@@ -94,7 +94,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28187
+                "stars": 28191
               }
             }
           ]
@@ -116,7 +116,7 @@
                 "last_commit": "2026-08-17T22:42:48Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94602
+                "stars": 94605
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48464
+                "stars": 48466
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-20T09:10:58Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42936
+                "stars": 42937
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2024-05-26T00:24:11Z",
                 "owner": "tylerlaberge",
                 "repo": "PyPattyrn",
-                "stars": 2346
+                "stars": 2347
               }
             }
           ]
@@ -323,7 +323,7 @@
                 "last_commit": "2025-12-05T19:33:18Z",
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17425
+                "stars": 17424
               }
             }
           ]
@@ -479,7 +479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:19:38.197Z",
+    "last_updated": "2026-08-23T13:21:02.286Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_id": 136062240,
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
