@@ -94,7 +94,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28196
+                "stars": 28195
               }
             }
           ]
@@ -116,7 +116,7 @@
                 "last_commit": "2026-08-17T22:42:48Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94609
+                "stars": 94608
               }
             },
             {
@@ -446,6 +446,76 @@
       "items": [
         {
           "node_type": "item",
+          "title": "system-design-primer",
+          "description": "Design large-scale systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83222441,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 365715
+          }
+        }
+      ],
+      "title": "General Architecture"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "distributed-ml-patterns",
+          "description": "Distributed machine learning system patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 330007983,
+            "language": "Python",
+            "last_commit": "2026-01-06T17:05:50Z",
+            "owner": "terrytangyuan",
+            "repo": "distributed-ml-patterns",
+            "stars": 534
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "SQL",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sqlcheck",
+              "description": "Anti-patterns in SQL queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87006792,
+                "language": "C++",
+                "last_commit": "2024-02-21T13:30:05Z",
+                "owner": "jarulraj",
+                "repo": "sqlcheck",
+                "stars": 2520
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Databases and Storage"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "kubernetes",
           "description": "Kubernetes Production Patterns.",
           "children": [],
@@ -476,10 +546,73 @@
         }
       ],
       "title": "DevOps & containers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "css-protips",
+          "description": "A collection of tips to help take your CSS skills pro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41592744,
+            "language": null,
+            "last_commit": "2025-03-20T14:10:02Z",
+            "owner": "AllThingsSmitty",
+            "repo": "css-protips",
+            "stars": 30258
+          }
+        }
+      ],
+      "title": "Front-End Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Game Programming Patterns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11390832,
+            "language": "HTML",
+            "last_commit": "2024-07-21T23:27:15Z",
+            "owner": "munificent",
+            "repo": "game-programming-patterns",
+            "stars": 4533
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Other amazingly awesome lists can be found in the awesome",
+          "description": "list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499503
+          }
+        }
+      ],
+      "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:38:01.286Z",
+    "last_updated": "2026-08-24T13:48:53.503Z",
     "original_repository": "DovAmir/awesome-design-patterns",
     "original_repository_id": 136062240,
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
