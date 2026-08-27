@@ -42,7 +42,7 @@
                 "last_commit": "2024-07-17T04:31:02Z",
                 "owner": "abishekaditya",
                 "repo": "DesignPatterns",
-                "stars": 2819
+                "stars": 2820
               }
             },
             {
@@ -94,7 +94,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28196
+                "stars": 28202
               }
             }
           ]
@@ -116,7 +116,7 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94622
+                "stars": 94627
               }
             },
             {
@@ -131,7 +131,7 @@
                 "last_commit": "2025-04-09T06:54:03Z",
                 "owner": "HugoMatilla",
                 "repo": "Effective-JAVA-Summary",
-                "stars": 1570
+                "stars": 1571
               }
             }
           ]
@@ -249,7 +249,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48471
+                "stars": 48634
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-20T09:10:58Z",
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42944
+                "stars": 42948
               }
             },
             {
@@ -411,7 +411,7 @@
                 "last_commit": "2023-09-05T02:44:07Z",
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5431
+                "stars": 5432
               }
             }
           ]
@@ -456,7 +456,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366140
+            "stars": 366323
           }
         }
       ],
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-24T23:08:38Z",
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30260
+            "stars": 30261
           }
         }
       ],
@@ -604,7 +604,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500092
+            "stars": 500362
           }
         }
       ],
@@ -612,9 +612,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:40:24.101Z",
-    "original_repository": "DovAmir/awesome-design-patterns",
-    "original_repository_id": 136062240,
+    "last_updated": "2026-08-27T11:40:59.037Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 136062240,
+      "language": null,
+      "last_commit": "2024-10-25T19:57:00Z",
+      "owner": "DovAmir",
+      "repo": "awesome-design-patterns",
+      "stars": 48697
+    },
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
     "enhanced_repository": "enhansome/enhansome-design-patterns",
     "enhanced_repository_description": null,
