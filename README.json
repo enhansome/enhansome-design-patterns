@@ -94,7 +94,7 @@
                 "last_commit": "2024-05-14T01:07:28Z",
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28202
+                "stars": 28206
               }
             }
           ]
@@ -116,7 +116,7 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94627
+                "stars": 94628
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-12-02T04:54:48Z",
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48634
+                "stars": 48685
               }
             },
             {
@@ -264,7 +264,7 @@
                 "last_commit": "2025-02-03T08:45:02Z",
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22186
+                "stars": 22187
               }
             }
           ]
@@ -456,7 +456,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366323
+            "stars": 366400
           }
         }
       ],
@@ -503,7 +503,7 @@
                 "last_commit": "2024-02-21T13:30:05Z",
                 "owner": "jarulraj",
                 "repo": "sqlcheck",
-                "stars": 2521
+                "stars": 2522
               }
             }
           ]
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-24T23:08:38Z",
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30261
+            "stars": 30262
           }
         }
       ],
@@ -604,7 +604,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500362
+            "stars": 500523
           }
         }
       ],
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:59.037Z",
+    "last_updated": "2026-08-27T22:36:49.422Z",
     "original_repository_info": {
       "archived": false,
       "id": 136062240,
@@ -620,7 +620,7 @@
       "last_commit": "2024-10-25T19:57:00Z",
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 48697
+      "stars": 48703
     },
     "original_repository_sha": "9006287f27e720000cc8763ae4cd150789b8571d",
     "enhanced_repository": "enhansome/enhansome-design-patterns",

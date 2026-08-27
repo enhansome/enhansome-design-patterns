@@ -47,10 +47,10 @@
   * [design-patterns](https://arturoherrero.com/closure-design-patterns/)
 
 * Go
-  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,202 | 🐛 66 | 🌐 Go | 📅 2024-05-14
+  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,206 | 🐛 66 | 🌐 Go | 📅 2024-05-14
 
 * Java
-  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,627 | 🐛 134 | 🌐 Java | 📅 2026-08-25
+  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,628 | 🐛 135 | 🌐 Java | 📅 2026-08-25
   * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,571 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
   * [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
   * [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
@@ -76,8 +76,8 @@
   * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 * PHP
-  * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,634 | 🐛 16 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
-  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,186 | 🐛 1 | 🌐 PHP | 📅 2025-02-03
+  * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,685 | 🐛 16 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
+  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,187 | 🐛 1 | 🌐 PHP | 📅 2025-02-03
 
 * Python
   * [design-patterns](https://github.com/faif/python-patterns) ⭐ 42,948 | 🐛 17 | 🌐 Python | 📅 2026-08-20
@@ -119,7 +119,7 @@
 
 ## General Architecture
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 366,323 | 🐛 611 | 🌐 Python | 📅 2026-03-20 - Design large-scale systems.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 366,400 | 🐛 611 | 🌐 Python | 📅 2026-03-20 - Design large-scale systems.
 * [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 * [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 * [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
@@ -173,7 +173,7 @@
 ## Databases and Storage
 
 * SQL
-  * [sqlcheck](https://github.com/jarulraj/sqlcheck) ⭐ 2,521 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Anti-patterns in SQL queries.
+  * [sqlcheck](https://github.com/jarulraj/sqlcheck) ⭐ 2,522 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Anti-patterns in SQL queries.
   * [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
   * [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
   * [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
@@ -212,7 +212,7 @@
 
 ## Front-End Development
 
-* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,261 | 🐛 1 | 📅 2026-08-24 - A collection of tips to help take your CSS skills pro.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,262 | 🐛 1 | 📅 2026-08-24 - A collection of tips to help take your CSS skills pro.
 * [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 * [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 * [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
@@ -243,7 +243,7 @@
 
 ## Other Awesome Lists
 
-* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,362 | 🐛 105 | 📅 2026-08-21 list.
+* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,523 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Contributing
 
