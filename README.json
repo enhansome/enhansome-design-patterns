@@ -55,7 +55,7 @@
                 "open_issues": 11,
                 "owner": "abishekaditya",
                 "repo": "DesignPatterns",
-                "stars": 2818,
+                "stars": 2819,
                 "topics": [
                   "24projects",
                   "c-sharp",
@@ -166,7 +166,7 @@
                 "open_issues": 66,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28215,
+                "stars": 28218,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -202,7 +202,7 @@
                 "open_issues": 122,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94637,
+                "stars": 94640,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -232,7 +232,7 @@
                 "open_issues": 1,
                 "owner": "HugoMatilla",
                 "repo": "Effective-JAVA-Summary",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:41:45.424Z"
@@ -423,7 +423,7 @@
                 "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48828,
+                "stars": 48833,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -489,7 +489,7 @@
                 "open_issues": 17,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 42956,
+                "stars": 42957,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -514,7 +514,7 @@
                 "open_issues": 0,
                 "owner": "tylerlaberge",
                 "repo": "PyPattyrn",
-                "stars": 2347,
+                "stars": 2348,
                 "topics": [
                   "design-patterns",
                   "library",
@@ -747,10 +747,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
-            "open_issues": 612,
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 367296,
+            "stars": 367738,
             "topics": [
               "design",
               "design-patterns",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30262,
+            "stars": 30261,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 105,
             "owner": "munificent",
             "repo": "game-programming-patterns",
-            "stars": 4534,
+            "stars": 4535,
             "topics": [
               "architecture",
               "book",
@@ -1004,11 +1004,11 @@
             "id": 21737465,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-21T12:39:13Z",
+            "last_commit": "2026-09-02T02:10:47Z",
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501974,
+            "stars": 502309,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:56:33.387Z",
+    "last_updated": "2026-09-02T16:52:21.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 25,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 48762,
+      "stars": 48781,
       "topics": [
         "architecture",
         "awesome",
