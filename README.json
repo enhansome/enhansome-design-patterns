@@ -166,7 +166,7 @@
                 "open_issues": 65,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28255,
+                "stars": 28254,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -198,11 +198,11 @@
                 "id": 22790488,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T06:53:54Z",
-                "open_issues": 129,
+                "last_commit": "2026-09-29T04:38:29Z",
+                "open_issues": 133,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94752,
+                "stars": 94754,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -423,7 +423,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48886,
+                "stars": 48888,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -451,7 +451,7 @@
                 "open_issues": 0,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22189,
+                "stars": 22191,
                 "topics": [
                   "code-examples",
                   "design-pattern",
@@ -489,7 +489,7 @@
                 "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43017,
+                "stars": 43021,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -546,7 +546,7 @@
                 "open_issues": 11,
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17418,
+                "stars": 17419,
                 "topics": [
                   "best-practices",
                   "design-patterns",
@@ -645,7 +645,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15254,
+                "stars": 15253,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5431,
+                "stars": 5432,
                 "topics": [
                   "adapter",
                   "builder",
@@ -750,7 +750,7 @@
             "open_issues": 622,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372357,
+            "stars": 372512,
             "topics": [
               "design",
               "design-patterns",
@@ -791,7 +791,7 @@
             "open_issues": 4,
             "owner": "terrytangyuan",
             "repo": "distributed-ml-patterns",
-            "stars": 539,
+            "stars": 540,
             "topics": [
               "argo",
               "argo-workflows",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30288,
+            "stars": 30290,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -1008,7 +1008,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 511937,
+            "stars": 512359,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:50:31.112Z",
+    "last_updated": "2026-09-29T18:17:08.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 27,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49113,
+      "stars": 49126,
       "topics": [
         "architecture",
         "awesome",
