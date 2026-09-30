@@ -55,7 +55,7 @@
                 "open_issues": 11,
                 "owner": "abishekaditya",
                 "repo": "DesignPatterns",
-                "stars": 2818,
+                "stars": 2819,
                 "topics": [
                   "24projects",
                   "c-sharp",
@@ -84,7 +84,7 @@
                 "open_issues": 0,
                 "owner": "nemanjarogic",
                 "repo": "DesignPatternsLibrary",
-                "stars": 2134,
+                "stars": 2135,
                 "topics": [
                   "architecture",
                   "csharp",
@@ -117,7 +117,7 @@
                 "open_issues": 5,
                 "owner": "anupavanm",
                 "repo": "csharp-design-patterns-for-humans",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "adapter-pattern",
                   "behavioral-patterns",
@@ -202,7 +202,7 @@
                 "open_issues": 133,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94754,
+                "stars": 94753,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -423,7 +423,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48888,
+                "stars": 48891,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -451,7 +451,7 @@
                 "open_issues": 0,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22191,
+                "stars": 22190,
                 "topics": [
                   "code-examples",
                   "design-pattern",
@@ -489,7 +489,7 @@
                 "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43021,
+                "stars": 43020,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -546,7 +546,7 @@
                 "open_issues": 11,
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17419,
+                "stars": 17418,
                 "topics": [
                   "best-practices",
                   "design-patterns",
@@ -750,7 +750,7 @@
             "open_issues": 622,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372512,
+            "stars": 372650,
             "topics": [
               "design",
               "design-patterns",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30290,
+            "stars": 30289,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 105,
             "owner": "munificent",
             "repo": "game-programming-patterns",
-            "stars": 4553,
+            "stars": 4554,
             "topics": [
               "architecture",
               "book",
@@ -1008,7 +1008,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512359,
+            "stars": 512796,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:17:08.949Z",
+    "last_updated": "2026-09-30T18:08:23.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 27,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49126,
+      "stars": 49142,
       "topics": [
         "architecture",
         "awesome",
