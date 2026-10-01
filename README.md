@@ -47,10 +47,10 @@
   * [design-patterns](https://arturoherrero.com/closure-design-patterns/)
 
 * Go
-  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,254 | 🐛 65 | 🌐 Go | 📅 2024-05-14
+  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,256 | 🐛 65 | 🌐 Go | 📅 2024-05-14
 
 * Java
-  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,753 | 🐛 133 | 🌐 Java | 📅 2026-09-29
+  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,757 | 🐛 133 | 🌐 Java | 📅 2026-09-29
   * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,573 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
   * [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
   * [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
@@ -58,7 +58,7 @@
   * [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 
 * JavaScript
-  * [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) ⭐ 4,478 | 🐛 5 | 📅 2024-01-08 - ultra simplified explanation to design patterns.
+  * [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) ⭐ 4,477 | 🐛 5 | 📅 2024-01-08 - ultra simplified explanation to design patterns.
   * [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6) ⭐ 362 | 🐛 1 | 🌐 HTML | 📅 2017-01-11
   * [design-patterns](https://github.com/nnupoor/js_designpatterns) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2023-06-29
   * [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
@@ -77,10 +77,10 @@
 
 * PHP
   * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,891 | 🐛 18 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
-  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,190 | 🐛 0 | 🌐 PHP | 📅 2025-02-03
+  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,192 | 🐛 0 | 🌐 PHP | 📅 2025-02-03
 
 * Python
-  * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,020 | 🐛 12 | 🌐 Python | 📅 2026-09-24
+  * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,028 | 🐛 15 | 🌐 Python | 📅 2026-10-01
   * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) ⚠️ Archived - A simple library for implementing common design patterns.
   * [Python Design Patterns](https://python-patterns.guide/)
   * [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
@@ -101,10 +101,10 @@
   * [design-patterns](https://github.com/josephguan/scala-design-patterns) ⭐ 206 | 🐛 0 | 🌐 Scala | 📅 2019-01-09
 
 * Swift
-  * [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,253 | 🐛 4 | 🌐 Swift | 📅 2024-08-03
+  * [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,251 | 🐛 4 | 🌐 Swift | 📅 2024-08-03
 
 * TypeScript
-  * [design-patterns](https://github.com/torokmark/design_patterns_in_typescript) ⭐ 5,432 | 🐛 7 | 🌐 TypeScript | 📅 2023-09-05
+  * [design-patterns](https://github.com/torokmark/design_patterns_in_typescript) ⭐ 5,431 | 🐛 7 | 🌐 TypeScript | 📅 2023-09-05
 
 * UML
   * [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
@@ -119,7 +119,7 @@
 
 ## General Architecture
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,650 | 🐛 622 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,792 | 🐛 622 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
 * [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 * [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 * [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
@@ -212,7 +212,7 @@
 
 ## Front-End Development
 
-* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,289 | 🐛 1 | 📅 2026-09-23 - A collection of tips to help take your CSS skills pro.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,290 | 🐛 1 | 📅 2026-09-23 - A collection of tips to help take your CSS skills pro.
 * [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 * [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 * [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
@@ -243,7 +243,7 @@
 
 ## Other Awesome Lists
 
-* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,796 | 🐛 106 | 📅 2026-09-02 list.
+* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,189 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contributing
 
@@ -257,4 +257,4 @@ To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
