@@ -166,7 +166,7 @@
                 "open_issues": 65,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28256,
+                "stars": 28259,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -341,7 +341,7 @@
                 "open_issues": 5,
                 "owner": "dbacinski",
                 "repo": "Design-Patterns-In-Kotlin",
-                "stars": 5993,
+                "stars": 5994,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -423,7 +423,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48891,
+                "stars": 48893,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -451,7 +451,7 @@
                 "open_issues": 0,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22192,
+                "stars": 22193,
                 "topics": [
                   "code-examples",
                   "design-pattern",
@@ -489,7 +489,7 @@
                 "open_issues": 15,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43028,
+                "stars": 43030,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -514,7 +514,7 @@
                 "open_issues": 0,
                 "owner": "tylerlaberge",
                 "repo": "PyPattyrn",
-                "stars": 2349,
+                "stars": 2350,
                 "topics": [
                   "design-patterns",
                   "library",
@@ -645,7 +645,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15251,
+                "stars": 15250,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -747,10 +747,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 622,
+            "open_issues": 623,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372792,
+            "stars": 372930,
             "topics": [
               "design",
               "design-patterns",
@@ -880,7 +880,7 @@
             "open_issues": 0,
             "owner": "gravitational",
             "repo": "workshop",
-            "stars": 2030,
+            "stars": 2029,
             "topics": [
               "docker",
               "gravity",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30290,
+            "stars": 30286,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -1008,7 +1008,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513189,
+            "stars": 513635,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:34:50.575Z",
+    "last_updated": "2026-10-02T18:02:33.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 27,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49155,
+      "stars": 49169,
       "topics": [
         "architecture",
         "awesome",
