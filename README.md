@@ -50,7 +50,7 @@
   * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,259 | 🐛 65 | 🌐 Go | 📅 2024-05-14
 
 * Java
-  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,757 | 🐛 133 | 🌐 Java | 📅 2026-09-29
+  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,756 | 🐛 133 | 🌐 Java | 📅 2026-09-29
   * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,573 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
   * [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
   * [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
@@ -76,23 +76,23 @@
   * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 * PHP
-  * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,893 | 🐛 18 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
+  * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,892 | 🐛 18 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
   * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,193 | 🐛 0 | 🌐 PHP | 📅 2025-02-03
 
 * Python
-  * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,030 | 🐛 15 | 🌐 Python | 📅 2026-10-01
+  * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,032 | 🐛 12 | 🌐 Python | 📅 2026-10-02
   * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) ⚠️ Archived - A simple library for implementing common design patterns.
   * [Python Design Patterns](https://python-patterns.guide/)
   * [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
   * [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 
 * React
-  * [react-bits](https://github.com/vasanthk/react-bits) ⭐ 17,418 | 🐛 11 | 📅 2025-12-05
+  * [react-bits](https://github.com/vasanthk/react-bits) ⭐ 17,417 | 🐛 11 | 📅 2025-12-05
   * [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
   * [reactpatterns.com](https://reactpatterns.com)
 
 * Ruby
-  * [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) ⭐ 2,513 | 🐛 4 | 📅 2024-04-29
+  * [design-patterns](https://github.com/davidgf/design-patterns-in-ruby) ⭐ 2,512 | 🐛 4 | 📅 2024-04-29
 
 * Rust
   * [design-patterns](https://rust-unofficial.github.io/patterns/)
@@ -119,7 +119,7 @@
 
 ## General Architecture
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,930 | 🐛 623 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 372,976 | 🐛 623 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
 * [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 * [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 * [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
@@ -212,7 +212,7 @@
 
 ## Front-End Development
 
-* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,286 | 🐛 1 | 📅 2026-09-23 - A collection of tips to help take your CSS skills pro.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,285 | 🐛 1 | 📅 2026-09-23 - A collection of tips to help take your CSS skills pro.
 * [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 * [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 * [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
@@ -243,7 +243,7 @@
 
 ## Other Awesome Lists
 
-* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,635 | 🐛 106 | 📅 2026-09-02 list.
+* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contributing
 
@@ -257,4 +257,4 @@ To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

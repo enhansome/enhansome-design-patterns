@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "design patterns",
-              "description": null,
+              "description": "mgechev/angularjs-in-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -42,7 +42,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "abishekaditya/DesignPatterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "Design Patterns Library",
-              "description": null,
+              "description": "nemanjarogic/DesignPatternsLibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -153,7 +153,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "tmrts/go-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "iluwatar/java-design-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,7 +202,7 @@
                 "open_issues": 133,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94757,
+                "stars": 94756,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "es6 design patterns",
-              "description": null,
+              "description": "bugthesystem/design-patterns-and-idioms-in-es6",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -300,7 +300,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "nnupoor/js_designpatterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "dbacinski/Design-Patterns-In-Kotlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "Real world design patterns with Node.js",
-              "description": null,
+              "description": "nimit95/Real-world-Design-Patterns-Node-JS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48893,
+                "stars": 48892,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -438,7 +438,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "DesignPatternsPHP/DesignPatternsPHP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,7 +476,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "faif/python-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -485,11 +485,11 @@
                 "id": 4578002,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-01T09:17:58Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-02T20:11:38Z",
+                "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43030,
+                "stars": 43032,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -514,7 +514,7 @@
                 "open_issues": 0,
                 "owner": "tylerlaberge",
                 "repo": "PyPattyrn",
-                "stars": 2350,
+                "stars": 2348,
                 "topics": [
                   "design-patterns",
                   "library",
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "react-bits",
-              "description": null,
+              "description": "vasanthk/react-bits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -546,7 +546,7 @@
                 "open_issues": 11,
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17418,
+                "stars": 17417,
                 "topics": [
                   "best-practices",
                   "design-patterns",
@@ -569,7 +569,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "davidgf/design-patterns-in-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -582,7 +582,7 @@
                 "open_issues": 4,
                 "owner": "davidgf",
                 "repo": "design-patterns-in-ruby",
-                "stars": 2513,
+                "stars": 2512,
                 "topics": [
                   "design-patterns",
                   "ruby"
@@ -600,7 +600,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "josephguan/scala-design-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -632,7 +632,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "ochococo/Design-Patterns-In-Swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "torokmark/design_patterns_in_typescript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "design-patterns",
-              "description": null,
+              "description": "joshnuss/design-patterns-in-elixir",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +750,7 @@
             "open_issues": 623,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372930,
+            "stars": 372976,
             "topics": [
               "design",
               "design-patterns",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30286,
+            "stars": 30285,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -960,7 +960,7 @@
         {
           "node_type": "item",
           "title": "Game Programming Patterns",
-          "description": null,
+          "description": "munificent/game-programming-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1008,7 +1008,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513635,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:02:33.690Z",
+    "last_updated": "2026-10-03T04:39:38.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 27,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49169,
+      "stars": 49179,
       "topics": [
         "architecture",
         "awesome",
