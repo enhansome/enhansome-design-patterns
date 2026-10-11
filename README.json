@@ -166,7 +166,7 @@
                 "open_issues": 65,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28262,
+                "stars": 28263,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -341,7 +341,7 @@
                 "open_issues": 5,
                 "owner": "dbacinski",
                 "repo": "Design-Patterns-In-Kotlin",
-                "stars": 5993,
+                "stars": 5992,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -423,7 +423,7 @@
                 "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48900,
+                "stars": 48904,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -451,7 +451,7 @@
                 "open_issues": 0,
                 "owner": "DesignPatternsPHP",
                 "repo": "DesignPatternsPHP",
-                "stars": 22192,
+                "stars": 22193,
                 "topics": [
                   "code-examples",
                   "design-pattern",
@@ -489,7 +489,7 @@
                 "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43044,
+                "stars": 43046,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -747,10 +747,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 621,
+            "open_issues": 623,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 373655,
+            "stars": 373775,
             "topics": [
               "design",
               "design-patterns",
@@ -842,7 +842,7 @@
                 "open_issues": 14,
                 "owner": "jarulraj",
                 "repo": "sqlcheck",
-                "stars": 2522,
+                "stars": 2521,
                 "topics": [
                   "command-line",
                   "database",
@@ -880,7 +880,7 @@
             "open_issues": 0,
             "owner": "gravitational",
             "repo": "workshop",
-            "stars": 2029,
+            "stars": 2028,
             "topics": [
               "docker",
               "gravity",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30289,
+            "stars": 30292,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -1005,10 +1005,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 517138,
+            "stars": 517588,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:28:38.696Z",
+    "last_updated": "2026-10-11T17:48:03.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 27,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49280,
+      "stars": 49287,
       "topics": [
         "architecture",
         "awesome",
