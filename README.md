@@ -33,10 +33,10 @@
 ## Programming Language Design Patterns
 
 * AngularJS
-  * [design patterns](https://github.com/mgechev/angularjs-in-patterns) ⭐ 1,943 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-21
+  * [design patterns](https://github.com/mgechev/angularjs-in-patterns) ⭐ 1,942 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-21
 
 * C#
-  * [design-patterns](https://github.com/abishekaditya/DesignPatterns) ⭐ 2,820 | 🐛 11 | 🌐 C# | 📅 2024-07-17
+  * [design-patterns](https://github.com/abishekaditya/DesignPatterns) ⭐ 2,819 | 🐛 11 | 🌐 C# | 📅 2024-07-17
   * [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary) ⭐ 2,137 | 🐛 0 | 🌐 C# | 📅 2025-07-04
   * [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) ⭐ 1,390 | 🐛 5 | 🌐 C# | 📅 2022-08-09 - ultra simplified explanation to design patterns.
 
@@ -50,15 +50,15 @@
   * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,263 | 🐛 65 | 🌐 Go | 📅 2024-05-14
 
 * Java
-  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,777 | 🐛 141 | 🌐 Java | 📅 2026-10-08
-  * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,571 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
+  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,783 | 🐛 141 | 🌐 Java | 📅 2026-10-08
+  * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,573 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
   * [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
   * [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
   * [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
   * [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 
 * JavaScript
-  * [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) ⭐ 4,479 | 🐛 5 | 📅 2024-01-08 - ultra simplified explanation to design patterns.
+  * [humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) ⭐ 4,478 | 🐛 5 | 📅 2024-01-08 - ultra simplified explanation to design patterns.
   * [es6 design patterns](https://github.com/ziyasal/design-patterns-and-idioms-in-es6) ⭐ 361 | 🐛 0 | 🌐 HTML | 📅 2017-01-11
   * [design-patterns](https://github.com/nnupoor/js_designpatterns) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2023-06-29
   * [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
@@ -76,18 +76,18 @@
   * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 
 * PHP
-  * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,904 | 🐛 16 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
+  * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,906 | 🐛 16 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
   * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,193 | 🐛 0 | 🌐 PHP | 📅 2025-02-03
 
 * Python
-  * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,046 | 🐛 12 | 🌐 Python | 📅 2026-10-09
+  * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,045 | 🐛 12 | 🌐 Python | 📅 2026-10-09
   * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) ⚠️ Archived - A simple library for implementing common design patterns.
   * [Python Design Patterns](https://python-patterns.guide/)
   * [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
   * [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 
 * React
-  * [react-bits](https://github.com/vasanthk/react-bits) ⭐ 17,421 | 🐛 11 | 📅 2025-12-05
+  * [react-bits](https://github.com/vasanthk/react-bits) ⭐ 17,422 | 🐛 11 | 📅 2025-12-05
   * [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
   * [reactpatterns.com](https://reactpatterns.com)
 
@@ -101,7 +101,7 @@
   * [design-patterns](https://github.com/josephguan/scala-design-patterns) ⭐ 206 | 🐛 0 | 🌐 Scala | 📅 2019-01-09
 
 * Swift
-  * [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,250 | 🐛 4 | 🌐 Swift | 📅 2024-08-03
+  * [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,248 | 🐛 4 | 🌐 Swift | 📅 2024-08-03
 
 * TypeScript
   * [design-patterns](https://github.com/torokmark/design_patterns_in_typescript) ⭐ 5,428 | 🐛 7 | 🌐 TypeScript | 📅 2023-09-05
@@ -114,12 +114,12 @@
   * [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 
 * Elixir
-  * [design-patterns](https://github.com/joshnuss/design-patterns-in-elixir) ⭐ 644 | 🐛 0 | 🌐 Elixir | 📅 2022-09-27
+  * [design-patterns](https://github.com/joshnuss/design-patterns-in-elixir) ⭐ 643 | 🐛 0 | 🌐 Elixir | 📅 2022-09-27
   * [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
 
 ## General Architecture
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,775 | 🐛 623 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,949 | 🐛 624 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
 * [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 * [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 * [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
@@ -173,7 +173,7 @@
 ## Databases and Storage
 
 * SQL
-  * [sqlcheck](https://github.com/jarulraj/sqlcheck) ⭐ 2,521 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Anti-patterns in SQL queries.
+  * [sqlcheck](https://github.com/jarulraj/sqlcheck) ⭐ 2,522 | 🐛 14 | 🌐 C++ | 📅 2024-02-21 - Anti-patterns in SQL queries.
   * [database tenancy patterns](https://docs.microsoft.com/en-us/azure/sql-database/saas-tenancy-app-design-patterns) - Multi-tenant SaaS database tenancy patterns
   * [databaseanswers](http://www.databaseanswers.org/data_models) -  Industry-specific SQL Data Models in 50 categories.
   * [database-programmer](http://database-programmer.blogspot.com/2008/01/table-design-patterns.html) - Table-design-patterns.
@@ -243,7 +243,7 @@
 
 ## Other Awesome Lists
 
-* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 517,588 | 🐛 105 | 📅 2026-09-02 list.
+* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,124 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contributing
 
@@ -257,4 +257,4 @@ To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
