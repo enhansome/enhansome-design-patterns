@@ -166,7 +166,7 @@
                 "open_issues": 65,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28287,
+                "stars": 28288,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -199,10 +199,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T12:44:21Z",
-                "open_issues": 142,
+                "open_issues": 144,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94814,
+                "stars": 94815,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -232,7 +232,7 @@
                 "open_issues": 1,
                 "owner": "HugoMatilla",
                 "repo": "Effective-JAVA-Summary",
-                "stars": 1573,
+                "stars": 1576,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:41:45.424Z"
@@ -423,7 +423,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48909,
+                "stars": 48907,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -489,7 +489,7 @@
                 "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43062,
+                "stars": 43065,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -645,7 +645,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15244,
+                "stars": 15242,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5426,
+                "stars": 5425,
                 "topics": [
                   "adapter",
                   "builder",
@@ -747,10 +747,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 630,
+            "open_issues": 631,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 375149,
+            "stars": 375306,
             "topics": [
               "design",
               "design-patterns",
@@ -1008,7 +1008,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 522855,
+            "stars": 523525,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:38:44.589Z",
+    "last_updated": "2026-10-23T17:28:24.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 26,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49444,
+      "stars": 49451,
       "topics": [
         "architecture",
         "awesome",
