@@ -166,7 +166,7 @@
                 "open_issues": 65,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28289,
+                "stars": 28293,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -202,7 +202,7 @@
                 "open_issues": 145,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94816,
+                "stars": 94819,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -341,7 +341,7 @@
                 "open_issues": 5,
                 "owner": "dbacinski",
                 "repo": "Design-Patterns-In-Kotlin",
-                "stars": 5990,
+                "stars": 5991,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -423,7 +423,7 @@
                 "open_issues": 18,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48907,
+                "stars": 48911,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -681,7 +681,7 @@
                 "open_issues": 7,
                 "owner": "torokmark",
                 "repo": "design_patterns_in_typescript",
-                "stars": 5425,
+                "stars": 5426,
                 "topics": [
                   "adapter",
                   "builder",
@@ -750,7 +750,7 @@
             "open_issues": 632,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 375423,
+            "stars": 375551,
             "topics": [
               "design",
               "design-patterns",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30299,
+            "stars": 30300,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 105,
             "owner": "munificent",
             "repo": "game-programming-patterns",
-            "stars": 4558,
+            "stars": 4560,
             "topics": [
               "architecture",
               "book",
@@ -1008,7 +1008,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 523991,
+            "stars": 524599,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:15:52.968Z",
+    "last_updated": "2026-10-25T16:50:21.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1036,7 +1036,7 @@
       "open_issues": 26,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49468,
+      "stars": 49495,
       "topics": [
         "architecture",
         "awesome",
