@@ -36,7 +36,7 @@
   * [design patterns](https://github.com/mgechev/angularjs-in-patterns) ⭐ 1,942 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-21
 
 * C#
-  * [design-patterns](https://github.com/abishekaditya/DesignPatterns) ⭐ 2,825 | 🐛 11 | 🌐 C# | 📅 2024-07-17
+  * [design-patterns](https://github.com/abishekaditya/DesignPatterns) ⭐ 2,826 | 🐛 11 | 🌐 C# | 📅 2024-07-17
   * [Design Patterns Library](https://github.com/nemanjarogic/DesignPatternsLibrary) ⭐ 2,140 | 🐛 0 | 🌐 C# | 📅 2025-07-04
   * [design-patterns-for-human](https://github.com/anupavanm/csharp-design-patterns-for-humans) ⭐ 1,392 | 🐛 5 | 🌐 C# | 📅 2022-08-09 - ultra simplified explanation to design patterns.
 
@@ -47,10 +47,10 @@
   * [design-patterns](https://arturoherrero.com/closure-design-patterns/)
 
 * Go
-  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,328 | 🐛 64 | 🌐 Go | 📅 2024-05-14
+  * [design-patterns](https://github.com/tmrts/go-patterns) ⭐ 28,330 | 🐛 64 | 🌐 Go | 📅 2024-05-14
 
 * Java
-  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,857 | 🐛 146 | 🌐 Java | 📅 2026-10-08
+  * [design-patterns](https://github.com/iluwatar/java-design-patterns) ⭐ 94,856 | 🐛 146 | 🌐 Java | 📅 2026-10-08
   * [effective-java patterns](https://github.com/HugoMatilla/Effective-JAVA-Summary) ⭐ 1,578 | 🐛 1 | 📅 2025-04-09 - patterns from the Effective Java book.
   * [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
   * [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
@@ -67,7 +67,7 @@
   * [design-patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin) ⭐ 5,990 | 🐛 5 | 🌐 Kotlin | 📅 2024-06-11
 
 * Node
-  * [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) ⭐ 427 | 🐛 4 | 🌐 JavaScript | 📅 2022-02-13
+  * [Real world design patterns with Node.js](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS) ⭐ 428 | 🐛 4 | 🌐 JavaScript | 📅 2022-02-13
   * [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
 
 * Object Oriented
@@ -77,7 +77,7 @@
 
 * PHP
   * [humans](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,941 | 🐛 18 | 📅 2024-12-02 - ultra simplified explanation to design patterns.
-  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,178 | 🐛 0 | 🌐 PHP | 📅 2025-02-03
+  * [design-patterns](https://github.com/domnikl/DesignPatternsPHP) ⭐ 22,181 | 🐛 0 | 🌐 PHP | 📅 2025-02-03
 
 * Python
   * [design-patterns](https://github.com/faif/python-patterns) ⭐ 43,093 | 🐛 12 | 🌐 Python | 📅 2026-11-06
@@ -101,10 +101,10 @@
   * [design-patterns](https://github.com/josephguan/scala-design-patterns) ⭐ 206 | 🐛 0 | 🌐 Scala | 📅 2019-01-09
 
 * Swift
-  * [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,233 | 🐛 4 | 🌐 Swift | 📅 2024-08-03
+  * [design-patterns](https://github.com/ochococo/Design-Patterns-In-Swift) ⭐ 15,235 | 🐛 4 | 🌐 Swift | 📅 2024-08-03
 
 * TypeScript
-  * [design-patterns](https://github.com/torokmark/design_patterns_in_typescript) ⭐ 5,428 | 🐛 7 | 🌐 TypeScript | 📅 2023-09-05
+  * [design-patterns](https://github.com/torokmark/design_patterns_in_typescript) ⭐ 5,429 | 🐛 7 | 🌐 TypeScript | 📅 2023-09-05
 
 * UML
   * [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
@@ -119,7 +119,7 @@
 
 ## General Architecture
 
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 377,451 | 🐛 645 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 377,573 | 🐛 646 | 🌐 Python | 📅 2026-09-15 - Design large-scale systems.
 * [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 * [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
 * [scalable System Design Patterns](https://dzone.com/articles/scalable-system-design) - Scalable system design techniques.
@@ -168,7 +168,7 @@
 
 ## Machine Learning
 
-* [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 546 | 🐛 4 | 🌐 Python | 📅 2026-01-06 - Distributed machine learning system patterns.
+* [distributed-ml-patterns](https://github.com/terrytangyuan/distributed-ml-patterns) ⭐ 547 | 🐛 4 | 🌐 Python | 📅 2026-01-06 - Distributed machine learning system patterns.
 
 ## Databases and Storage
 
@@ -212,7 +212,7 @@
 
 ## Front-End Development
 
-* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,299 | 🐛 1 | 📅 2026-09-23 - A collection of tips to help take your CSS skills pro.
+* [css-protips](https://github.com/AllThingsSmitty/css-protips) ⭐ 30,300 | 🐛 1 | 📅 2026-09-23 - A collection of tips to help take your CSS skills pro.
 * [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 * [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 * [responsive design patterns](https://bradfrost.github.io/this-is-responsive/patterns.html#layout) - A collection of patterns and modules for responsive designs.
@@ -230,7 +230,7 @@
 
 ## Books
 
-* [Game Programming Patterns](https://github.com/munificent/game-programming-patterns) ⭐ 4,570 | 🐛 105 | 🌐 HTML | 📅 2024-07-21
+* [Game Programming Patterns](https://github.com/munificent/game-programming-patterns) ⭐ 4,573 | 🐛 105 | 🌐 HTML | 📅 2024-07-21
 * [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 * [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
 * [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
@@ -243,7 +243,7 @@
 
 ## Other Awesome Lists
 
-* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,236 | 🐛 103 | 📅 2026-09-02 list.
+* Other amazingly awesome lists can be found in the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,782 | 🐛 103 | 📅 2026-09-02 list.
 
 ## Contributing
 
@@ -257,4 +257,4 @@ To the extent possible under law, [Dov Amir](https://github.com/DovAmir) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
