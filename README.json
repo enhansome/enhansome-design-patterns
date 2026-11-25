@@ -117,7 +117,7 @@
                 "open_issues": 5,
                 "owner": "anupavanm",
                 "repo": "csharp-design-patterns-for-humans",
-                "stars": 1392,
+                "stars": 1390,
                 "topics": [
                   "adapter-pattern",
                   "behavioral-patterns",
@@ -166,7 +166,7 @@
                 "open_issues": 64,
                 "owner": "tmrts",
                 "repo": "go-patterns",
-                "stars": 28351,
+                "stars": 28348,
                 "topics": [
                   "awesome",
                   "design-patterns",
@@ -202,7 +202,7 @@
                 "open_issues": 155,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94907,
+                "stars": 94909,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -260,7 +260,7 @@
                 "open_issues": 5,
                 "owner": "sohamkamani",
                 "repo": "javascript-design-patterns-for-humans",
-                "stars": 4472,
+                "stars": 4471,
                 "topics": [
                   "bridge-pattern",
                   "design-patterns",
@@ -423,7 +423,7 @@
                 "open_issues": 16,
                 "owner": "nilbuild",
                 "repo": "design-patterns-for-humans",
-                "stars": 48977,
+                "stars": 48978,
                 "topics": [
                   "architecture",
                   "computer-science",
@@ -489,7 +489,7 @@
                 "open_issues": 12,
                 "owner": "faif",
                 "repo": "python-patterns",
-                "stars": 43121,
+                "stars": 43120,
                 "topics": [
                   "design-patterns",
                   "idioms",
@@ -546,7 +546,7 @@
                 "open_issues": 11,
                 "owner": "vasanthk",
                 "repo": "react-bits",
-                "stars": 17422,
+                "stars": 17423,
                 "topics": [
                   "best-practices",
                   "design-patterns",
@@ -645,7 +645,7 @@
                 "open_issues": 4,
                 "owner": "ochococo",
                 "repo": "Design-Patterns-In-Swift",
-                "stars": 15230,
+                "stars": 15229,
                 "topics": [
                   "computer-science",
                   "design-patterns",
@@ -747,10 +747,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T01:10:09Z",
-            "open_issues": 645,
+            "open_issues": 646,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 379069,
+            "stars": 379236,
             "topics": [
               "design",
               "design-patterns",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "AllThingsSmitty",
             "repo": "css-protips",
-            "stars": 30307,
+            "stars": 30309,
             "topics": [
               "accessibility",
               "awesome-list",
@@ -1008,7 +1008,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 542297,
+            "stars": 542783,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:46:15.787Z",
+    "last_updated": "2026-11-25T21:59:19.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of software and architecture related design patterns.",
@@ -1033,10 +1033,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-25T19:57:00Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "DovAmir",
       "repo": "awesome-design-patterns",
-      "stars": 49881,
+      "stars": 49895,
       "topics": [
         "architecture",
         "awesome",
